@@ -1,5 +1,5 @@
 """
-Create a script that takes a user text prompt and a .pptx slide deck.
+Script that takes a user text prompt and a .pptx slide deck.
 The text prompt must be an instruction explaining how to replace individuals elements in a text sequence,
 in this case, a sequence of all the text elements in the .pptx deck."
 Calls the OpenAI Edits API to edit the underlying slide xml according to the user's text prompt.
